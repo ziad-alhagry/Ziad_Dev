@@ -16,7 +16,7 @@ I am a skilled Information Technology  Engineer and Web Developer with extensive
 * I have an active blog where I share my expertise and knowledge with others.]
 
 # Social Media[
-*  (https://github.com/https://github.com/ziad-alhagry) 
+*  https://github.com/ziad-alhagry/Ziad_Dev/blob/main/README.md
 
 * [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>]
 (https://twitter.com/https://x.com/En_ziad_?t=yKFtHsH9z0ajll0bSxlQZQ&s=09)  ]]
